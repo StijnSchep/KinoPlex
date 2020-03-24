@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "805974504111",
+    "Firestore_url": "https://kinoplex-ec6ec.Firestoreio.com",
+    "project_id": "kinoplex-ec6ec",
+    "storage_bucket": "kinoplex-ec6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805974504111:android:b135aa33ee6dcdfd",
+        "android_client_info": {
+          "package_name": "nl.avans.kinoplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805974504111-s9a47ukpie632acbe4bg03642tmuiufm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.avans.kinoplex",
+            "certificate_hash": "6671970a1a301a5f7fbaf15088e9e858b08bee22"
+          }
+        },
+        {
+          "client_id": "805974504111-709rnuq08blbki729girtdfc45445bvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.avans.kinoplex",
+            "certificate_hash": "1ea46e5825644e3ff6c4cfaa9444f3be97831c6d"
+          }
+        },
+        {
+          "client_id": "805974504111-66s2u9nj2o2iasrb2pgcapnet2ao5vvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGxs7GKNNdtG8oye7fbkHQL1q5U_iyqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805974504111-66s2u9nj2o2iasrb2pgcapnet2ao5vvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

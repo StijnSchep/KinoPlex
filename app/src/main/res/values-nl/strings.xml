@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KinoPlex</string>
+    <string name="search">Zoek</string>
+    <string name="showReviews">Toon Reviews</string>
+    <string name="seeAll">BEKIJK ALLES</string>
+    <string name="votes">stemmen</string>
+    <string name="now_playing">Speelt nu</string>
+    <string name="Popular">Populair</string>
+    <string name="top_rated">Hoogst Scorend</string>
+    <string name="addToList">Aan lijst toevoegen</string>
+    <string name="AddReview">Review Toevoegen</string>
+    <string name="Share">Delen</string>
+    <string name="username">Gebruikersnaam&#8230;</string>
+    <string name="password">Wachtwoord&#8230;</string>
+    <string name="login">Inloggen</string>
+    <string name="register">Registreren</string>
+    <string name="invalidLogin">Ongeldige inloggegevens!</string>
+    <string name="repeatPassword">Herhaal Wachtwoord&#8230;</string>
+    <string name="fullName">Volledige naam&#8230;</string>
+    <string name="trailer">Trailer</string>
+
+
+    <string name="Genres">Genres ▶</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="rememberme">Wachtwoord onthouden</string>
+    <string name="logout">Uitloggen</string>
+    <string name="now_playing_arrow">Speelt nu ▶</string>
+    <string name="top_rated_arrow">Hoogst Scorend ▶</string>
+    <string name="popular_arrow">Populair ▶</string>
+
+    <string name="manageLists">⚙ lijsten beheren</string>
+    <string name="yourLists">Jouw Lijsten</string>
+    <string name="enterTitle">Voer Titel in</string>
+    <string name="cancel">Annuleren</string>
+    <string name="addedToList">Aan de lijst toegevoegd</string>
+    <string name="upcoming">Verwacht</string>
+    <string name="deleteList">Weet je het zeker?</string>
+    <string name="no_more_reviews">Geen reviews meer :(</string>
+
+    <string name="addMovieToList_add">Voeg \'</string>
+    <string name="addMovieToList_toList">\' toe aan lijst</string>
+
+    <string name="standardList">Standaard lijsten</string>
+    <string name="userLists">Gebruikerslijsten</string>
+
+
+    <string name="addReviewForMovie">Voeg review toe voor: </string>
+    <string name="manage_list_filters">Beheer Filters</string>
+
+    <string name="movieYear">Jaar</string>
+    <string name="management">Beheer</string>
+    <string name="show_reviews_pre">Toon reviews (</string>
+    <string name="share_message">Kijk eens wat ik heb gevonden! \'%s\' is een geweldige film, met een gemiddelde score van %s! En de poster is gewoon prachtig : %s</string>
+    <string name="released">Uitgebracht</string>
+    <string name="build_commit_version">Versie %s</string>
+
+</resources>

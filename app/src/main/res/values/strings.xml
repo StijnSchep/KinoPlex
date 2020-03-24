@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">KinoPlex</string>
+    <string name="search">Search</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="account" translatable="false">Account</string>
+
+    <string name="contentDescription" translatable="false">Image</string>
+
+    <string name="showReviews">Show Reviews</string>
+    <string name="seeAll">SEE ALL</string>
+    <string name="vertical_ellipsis" translatable="false">&#8942;</string>
+
+    <string name="votes">voters</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="Popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+
+    <string name="trailer">Trailer</string>
+    <string name="now_playing_arrow">Now Playing ▶</string>
+
+    <string name="addToList">Add to list</string>
+    <string name="AddReview">Add Review</string>
+    <string name="Share">Share</string>
+
+    <string name="username">Username&#8230;</string>
+    <string name="password">Password&#8230;</string>
+    <string name="repeatPassword">Confirm Password&#8230;</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="invalidLogin">Invalid credentials!</string>
+    <string name="fullName">Full name&#8230;</string>
+    <string name="rememberme">Remember me</string>
+    <string name="logout">Log Out</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="top_rated_arrow">Top Rated ▶</string>
+    <string name="popular_arrow">Popular ▶</string>
+
+
+    <string name="manageLists">⚙ manage lists</string>
+    <string name="yourLists">Your Lists</string>
+    <string name="enterTitle">Enter Title</string>
+
+    <string name="cancel">Cancel</string>
+
+
+    <string name="deleteList">Are you sure?</string>
+
+    <string name="standardList">Standard lists</string>
+
+    <string name="Genres">Genres ▶</string>
+    <string name="plusSign" translatable="false">+</string>
+    <string name="addedToList">Added to the list</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="no_more_reviews">No more reviews :(</string>
+
+    <string name="rating_value" translatable="false">Rating :</string>
+    <string name="rating_content" translatable="false">Content :</string>
+
+    <string name="addMovieToList_add">Add \'</string>
+    <string name="addMovieToList_toList"> \'to list</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <string name="userLists">User lists</string>
+    <string name="management">Management</string>
+
+
+    <string name="addReviewForMovie">Add review for: </string>
+    <string name="manage_list_filters">Manage Filters</string>
+    <string name="filter_title" translatable="false">Filters</string>
+
+    <string name="movieYear">Year</string>
+    <string name="movieGenre" translatable="false">Genre</string>
+    <string name="refreshFilters" translatable="false">Refresh Filters</string>
+
+    <string name="show_reviews_pre">Show reviews (</string>
+    <string name="share_message">Look what I found! \'%s\' is a great movie, rated at %s! Also, the poster is just great : %s</string>
+    <string name="released">Released</string>
+    <string name="build_commit_version">Build %s</string>
+
+    <string name="trailer_label" translatable="false">Trailer: </string>
+</resources>

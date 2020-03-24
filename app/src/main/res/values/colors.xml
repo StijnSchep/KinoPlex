@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#27383e</color>
+    <color name="background">#0c0b00</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="textColor"> #d5d3bc</color>
+    <color name="softTextColor">#999999</color>
+
+    <color name="actionColor">#128bb5</color>
+    <color name="starColor">#deb522</color>
+    <color name="loginButtonColor">#deb522</color>
+    <color name="loginButtonErrorColor">#de5021</color>
+    <color name="loginHintColor">#999999</color>
+</resources>

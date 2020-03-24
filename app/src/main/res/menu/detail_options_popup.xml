@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/detail_options_addtolist"
+        android:title="@string/addToList"/>
+
+    <item
+        android:id="@+id/detail_options_addReview"
+        android:title="@string/AddReview"/>
+
+    <item
+        android:id="@+id/detail_options_share"
+        android:title="@string/Share"/>
+</menu>

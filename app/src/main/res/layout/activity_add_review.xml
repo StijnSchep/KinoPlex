@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".presentation.activities.AddReviewActivity">
+
+    <include
+        android:id="@+id/add_review_toolbar"
+        layout="@layout/review_toolbar"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_gravity="start">
+        <ImageView
+            android:id="@+id/iv_add_review_screen"
+            android:contentDescription="@string/contentDescription"
+            android:scaleType="matrix"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageView
+            android:contentDescription="@string/contentDescription"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/gradient"/>
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:layout_marginTop="5dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|top"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="40dp">
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rating_bar_add_review"
+                    android:progressTint="@color/starColor"
+                    android:isIndicator="false"
+                    android:layout_gravity="top"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_marginBottom="4dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/rating_content"
+                    android:textSize="16sp"
+                    android:textColor="@android:color/darker_gray"/>
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="350sp"
+                android:layout_height="150dp"
+                android:id="@+id/edit_text_add_review"
+                android:textSize="14sp"
+                android:background="#333333"
+                android:paddingRight="3sp"
+                android:paddingLeft="3sp"
+                android:paddingBottom="2sp"
+                android:paddingTop="2sp"
+                android:textColor="#fff"
+                android:singleLine="false"
+                android:textAlignment="textStart"
+                android:ems="10"
+                android:gravity="start"
+                android:lineSpacingExtra="5sp"
+                android:inputType="text|textMultiLine"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/AddReview"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:backgroundTint="#333333"
+                android:id="@+id/btn_add_review"
+                android:background="@color/actionColor"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

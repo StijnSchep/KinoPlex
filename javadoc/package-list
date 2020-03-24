@@ -1,0 +1,9 @@
+nl.avans.kinoplex
+nl.avans.kinoplex.business
+nl.avans.kinoplex.data.dataaccessobjects
+nl.avans.kinoplex.data.factories
+nl.avans.kinoplex.domain
+nl.avans.kinoplex.presentation.activities
+nl.avans.kinoplex.presentation.adapters
+nl.avans.kinoplex.presentation.viewholders
+nl.avans.kinoplex.presentation.views
